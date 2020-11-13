@@ -1,0 +1,10 @@
+jimbo, 40
+alejandro, 70
+mark, 80
+sammy, 30
+bryan, 30
+rayaan, 130
+, 0
+, 0
+, 0
+, 0
